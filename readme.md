@@ -1,3 +1,5 @@
+This code implemented a simulation of HGPE detector using MNCP6 code. Its also a basic input for new user in MCNP. The HPGe model is a Canberra GC3018.
+
 ## ⭐ About this code
 
 ### Geometry
